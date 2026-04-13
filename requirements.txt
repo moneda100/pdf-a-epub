@@ -1,0 +1,5 @@
+ttkbootstrap
+PyMuPDF
+EbookLib
+Pillow
+requests
